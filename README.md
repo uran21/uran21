@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uran21
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DevOps and ReactJS
 - 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me mail
 
